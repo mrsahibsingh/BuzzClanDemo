@@ -1,0 +1,27 @@
+[
+	{
+		"items": "Item 1",
+		"quantities": 2,
+		"price": 1.23
+	},
+	{
+		"items": "Item 2",
+		"quantities": 4,
+		"price": 5.0
+	},
+	{
+		"items": "Item 3",
+		"quantities": 6,
+		"price": 3.0
+	},
+	{
+		"items": "Item 4",
+		"quantities": 4,
+		"price": 3.5
+	},
+	{
+		"items": "Item 5",
+		"quantities": 7,
+		"price": 4.25
+	}
+]
